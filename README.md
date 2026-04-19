@@ -32,14 +32,7 @@
 
 ---
 
-## 🚀 Top Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=YOUR_REPO_1&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=YOUR_REPO_2&theme=radical" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
