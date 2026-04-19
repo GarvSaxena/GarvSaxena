@@ -5,7 +5,6 @@
 </p>
 
 🎓 Freshman @ IIIT Una (CSE)
-
 💡 Passionate about **Web Development, Mobile App Development, and Data Structures & Algorithms**
 🚀 Currently focused on building real-world projects and improving problem-solving skills
 
@@ -18,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvSaxena&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvSaxena&layout=compact&theme=radical&cache_seconds=0" />
 </p>
 
 ---
@@ -32,13 +31,11 @@
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarvSaxena&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarvSaxena&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GarvSaxena&show_icons=true&theme=radical&cache_seconds=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarvSaxena&theme=radical&cache_seconds=0" />
 </p>
 
 ---
@@ -50,7 +47,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvSaxena&theme=github_dark&utcOffset=5.5" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena\&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=react-dark&cache_seconds=0" />
+</p>
 
 ---
 
