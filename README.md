@@ -52,7 +52,9 @@
 </p>
 
 ---
-
+<a href="https://gitviewsmap.onrender.com/YOUR_GITHUB_USERNAME">
+  <img src="https://gitviewsmap.onrender.com/badge/YOUR_GITHUB_USERNAME.svg" alt="GitViewsMap Visitor Badge" />
+</a>
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/garv-saxena-57a337361/)
