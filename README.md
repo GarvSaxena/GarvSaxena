@@ -52,7 +52,7 @@
 </p>
 
 ---
-<a href="https://gitviewsmap.onrender.com/YOUR_GITHUB_USERNAME">
+<a href="https://gitviewsmap.onrender.com/GarvSaxena">
   <img src="https://gitviewsmap.onrender.com/badge/YOUR_GITHUB_USERNAME.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 ## 🌐 Connect with Me
