@@ -18,12 +18,7 @@
 - Backend Development
 - Web Development
 - Data Structures & Algorithms
-
-🌱 Currently learning:
-- DSA in C++
-- Machine Learning
-- Backend Development
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -55,10 +50,22 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GarvSaxena/GarvSaxena/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://github.com/GarvSaxena/Code-Archaeologist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=Code-Archaeologist&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🏆 Coding Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/oHFGawW3JV/">
+    <img src="https://img.shields.io/badge/LeetCode-oHFGawW3JV-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -68,5 +75,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/garv-saxena-57a337361/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:messagegarv32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
