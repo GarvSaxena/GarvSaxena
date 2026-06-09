@@ -47,11 +47,13 @@
 
 ---
 
-## 📈 GitHub Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarvSaxena&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/GarvSaxena/GarvSaxena/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvSaxena&theme=github_dark" />
