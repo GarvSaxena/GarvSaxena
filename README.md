@@ -1,12 +1,33 @@
 # Hi there! I'm Garv Saxena 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+there!+I'm+Garv+Saxena;Web+Developer;DSA+Learner;Backend+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Garv+Saxena;Backend+Developer;DSA+Learner;Node.js+Enthusiast;Always+Learning+🚀" />
 </p>
 
-🎓 Freshman @ IIIT Una (CSE)
-💡 Passionate about **Web Development, Mobile App Development, and Data Structures & Algorithms**
-🚀 Currently focused on building real-world projects and improving problem-solving skills
+---
+
+## 🚀 About Me
+
+🎓 Freshman at **IIIT Una (CSE)**
+
+💻 Passionate about:
+- Backend Development
+- Web Development
+- Data Structures & Algorithms
+- Building CLI Tools and Real-World Projects
+
+🌱 Currently Learning:
+- DSA in C++
+- Machine Learning
+- Advanced Backend Development
+
+🤝 Open to collaborating on:
+- Open Source Projects
+- Backend Projects
+- Node.js Applications
+
+⚡ Fun Fact:
+> I enjoy solving coding problems and building useful developer tools.
 
 ---
 
@@ -16,48 +37,56 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,nodejs,express,mongodb,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvSaxena&layout=compact&theme=radical&cache_seconds=0" />
-</p>
-
----
-
-## 📌 About Me
-
-* 📚 I’m currently learning **DSA in C++**
-* 💻 Exploring **Full-Stack Development**
-* 🤝 Looking to collaborate on **Open Source Projects**
-* ⚡ Fun fact: I love solving coding problems
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarvSaxena&show_icons=true&theme=radical&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GarvSaxena&show_icons=true&theme=radical&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvSaxena&layout=compact&theme=radical&cache_seconds=0" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarvSaxena&theme=radical&cache_seconds=0" />
 </p>
 
 ---
 
-## 📈 Contribution & Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvSaxena&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvSaxena&theme=github_dark&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=react-dark&cache_seconds=0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=react-dark" />
 </p>
 
 ---
 
-<a href="https://gitviewsmap.onrender.com/GarvSaxena">
-  <img src="https://gitviewsmap.onrender.com/badge/GarvSaxena.svg" alt="GitViewsMap Visitor Badge" />
-</a>
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GarvSaxena&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/garv-saxena-57a337361/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/garv-saxena-57a337361/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+### 💡 Current Focus
+
+```cpp
+while(true){
+    Learn();
+    Build();
+    Contribute();
+    Repeat();
+}
+```
+
+⭐ **If you like my projects, consider giving them a star!**
