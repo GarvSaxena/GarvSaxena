@@ -1,9 +1,9 @@
 # Hi there! I'm Garv Saxena 👋
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GarvSaxena&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="https://gitviewsmap.onrender.com/GarvSaxena">
+  <img src="https://gitviewsmap.onrender.com/badge/GarvSaxena.svg" alt="GitViewsMap Visitor Badge" />
+</a>
 
 ---
 
