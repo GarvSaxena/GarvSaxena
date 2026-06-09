@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,nodejs,express,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,nodejs,express,mongodb,git,github,react" />
 </p>
 
 ---
@@ -47,17 +47,18 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GarvSaxena/GarvSaxena/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvSaxena&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvSaxena&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
