@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Freshman at **IIIT Una (CSE)**
+🎓 **IIIT Una (CSE)**
 
 💻 Interested in:
 - Backend Development
