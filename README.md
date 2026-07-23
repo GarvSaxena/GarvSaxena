@@ -50,7 +50,7 @@
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/oHFGawW3JV?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/GarvSaxena?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
