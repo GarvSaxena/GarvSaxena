@@ -54,21 +54,21 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 <div align="center">
 
 <a href="https://github.com/GarvSaxena/AutoLock">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=false&v=2" />
 </a>
 
 <a href="https://github.com/GarvSaxena/Code-Archaeologist-cli">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=false&v=2" />
 </a>
 
 <br/>
 
 <a href="https://github.com/GarvSaxena/Repo-Deployer">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=false&v=2" />
 </a>
 
 <a href="https://github.com/GarvSaxena/url-shortner">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=false&v=2" />
 </a>
 
 </div>
