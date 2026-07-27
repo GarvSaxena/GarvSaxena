@@ -2,9 +2,9 @@
 
 Computer Science and Engineering student at **Indian Institute of Information Technology Una (IIIT Una)**.
 
-Backend and Full Stack developer working with **Node.js, Express.js, JavaScript, TypeScript, MongoDB, SQL, REST APIs, and Cloudflare R2**.
+Working with **C, C++, Python, JavaScript, TypeScript, Node.js, Express.js, MongoDB, MySQL, NumPy, and Pandas**.
 
-Currently focused on **Backend Development, Machine Learning, Data Structures and Algorithms (DSA), DevOps, and Open Source**.
+Currently focused on **Backend Development, Machine Learning, Data Structures and Algorithms (DSA), and DevOps**.
 
 ## Socials
 
@@ -20,86 +20,109 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frontend
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Databases & Storage
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Developer Tools
+### Machine Learning & Data
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### AutoLock
+<div align="center">
 
-**Node.js · JavaScript · Telegram Bot API**
+<a href="https://github.com/GarvSaxena/AutoLock">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=false" />
+</a>
 
-Smart Windows security utility that automatically locks your workstation based on smartphone Wi-Fi proximity and PC inactivity, with remote control and status notifications through Telegram.
+**Node.js · JavaScript**  
+Smart Windows security utility that locks your PC using smartphone Wi-Fi proximity and inactivity monitoring, with Telegram remote control.
 
-[View Repository](https://github.com/GarvSaxena/AutoLock)
+<br/>
 
-### Code Archaeologist
+<a href="https://github.com/GarvSaxena/Code-Archaeologist-cli">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=false" />
+</a>
 
-**Node.js · TypeScript · CLI**
+**Node.js · TypeScript · CLI**  
+Fast CLI tool that acts as an X-ray for codebases by analyzing files, project structure, extensions, and statistics.
 
-Fast and colorful CLI that acts as an X-ray for codebases by analyzing project structure, files, extensions, statistics, and directories.
+<br/>
 
-[View Repository](https://github.com/GarvSaxena/Code-Archaeologist-cli)
+<a href="https://github.com/GarvSaxena/Repo-Deployer">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=false" />
+</a>
 
-### Repo Deployer
+**Node.js · Express.js · Redis · Cloudflare R2**  
+Distributed Vercel-like platform that clones, builds, stores, and serves GitHub projects through custom subdomains.
 
-**Node.js · Express.js · Redis · Cloudflare R2**
+<br/>
 
-Distributed Vercel-like deployment platform that clones public GitHub repositories, builds them asynchronously, stores artifacts in R2, and serves deployments through custom subdomains.
+<a href="https://github.com/GarvSaxena/url-shortner">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=false" />
+</a>
 
-[View Repository](https://github.com/GarvSaxena/Repo-Deployer)
+**Node.js · Express.js · MongoDB**  
+URL shortening application that generates short links and tracks URL usage and visit history.
 
-### URL Shortener
-
-**Node.js · Express.js · MongoDB · EJS · JWT**
-
-URL shortening web application with unique short links, authentication, visit analytics, and URL history tracking.
-
-[View Repository](https://github.com/GarvSaxena/url-shortner)
+</div>
 
 ---
 
 ## Open Source Contributions
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Apache Software Foundation
 
-**apache/infrastructure-website — PR #291 & #292**
+**apache/infrastructure-website**
 
-Improved website accessibility by adding descriptive alt text to logos and ARIA labels to search functionality.
+**PR #291 · PR #292**
+
+Improved website accessibility with descriptive image alt text and ARIA labels for search functionality.
+
+</td>
+<td width="50%" valign="top">
 
 ### JS Beautifier
 
-**beautifier/js-beautify — PR #2431**
+**beautifier/js-beautify**
 
-Resolved Issue #2430 by implementing automatic focus on the text input after the clear button is clicked.
+**PR #2431**
+
+Resolved Issue #2430 by implementing automatic input focus after the clear button is clicked.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
