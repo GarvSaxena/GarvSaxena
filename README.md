@@ -57,17 +57,9 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=false" />
 </a>
 
-**Node.js · JavaScript**  
-Smart Windows security utility that locks your PC using smartphone Wi-Fi proximity and inactivity monitoring, with Telegram remote control.
-
-<br/>
-
 <a href="https://github.com/GarvSaxena/Code-Archaeologist-cli">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=false" />
 </a>
-
-**Node.js · TypeScript · CLI**  
-Fast CLI tool that acts as an X-ray for codebases by analyzing files, project structure, extensions, and statistics.
 
 <br/>
 
@@ -75,52 +67,9 @@ Fast CLI tool that acts as an X-ray for codebases by analyzing files, project st
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=false" />
 </a>
 
-**Node.js · Express.js · Redis · Cloudflare R2**  
-Distributed Vercel-like platform that clones, builds, stores, and serves GitHub projects through custom subdomains.
-
-<br/>
-
 <a href="https://github.com/GarvSaxena/url-shortner">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=false" />
 </a>
-
-**Node.js · Express.js · MongoDB**  
-URL shortening application that generates short links and tracks URL usage and visit history.
-
-</div>
-
----
-
-## Open Source Contributions
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Apache Software Foundation
-
-**apache/infrastructure-website**
-
-**PR #291 · PR #292**
-
-Improved website accessibility with descriptive image alt text and ARIA labels for search functionality.
-
-</td>
-<td width="50%" valign="top">
-
-### JS Beautifier
-
-**beautifier/js-beautify**
-
-**PR #2431**
-
-Resolved Issue #2430 by implementing automatic input focus after the clear button is clicked.
-
-</td>
-</tr>
-</table>
 
 </div>
 
