@@ -47,6 +47,32 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/GarvSaxena/AutoLock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=AutoLock&theme=github_dark&hide_border=false" />
+</a>
+
+<a href="https://github.com/GarvSaxena/Code-Archaeologist-cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=github_dark&hide_border=false" />
+</a>
+
+<a href="https://github.com/GarvSaxena/Repo-Deployer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=github_dark&hide_border=false" />
+</a>
+
+<a href="https://github.com/GarvSaxena/url-shortner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=url-shortner&theme=github_dark&hide_border=false" />
+</a>
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -61,6 +87,8 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 </div>
 
+---
+
 ## Contributions
 
 <div align="center">
@@ -72,6 +100,8 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvSaxena&theme=github_dark" />
 
 </div>
+
+---
 
 ## Profile Visitors
 
