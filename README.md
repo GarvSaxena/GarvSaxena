@@ -75,44 +75,6 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 ---
 
-## Open Source Contributions
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Apache Software Foundation
-
-**apache/infrastructure-website**
-
-Improved website accessibility by adding descriptive alt text and ARIA labels for search functionality.
-
-**Pull Requests:** #291, #292
-
-</td>
-
-<td width="50%" valign="top">
-
-### JS Beautifier
-
-**beautifier/js-beautify**
-
-Resolved Issue #2430 by implementing automatic focus on the text input after clicking the clear button.
-
-**Pull Request:** #2431
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
