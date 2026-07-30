@@ -2,6 +2,8 @@
 
 Computer Science and Engineering student at **Indian Institute of Information Technology Una (IIIT Una)**.
 
+Member of the **[Development Team, IIIT Una](https://github.com/Devteam-IIITU)**.
+
 Working with **C, C++, Python, JavaScript, TypeScript, Node.js, Express.js, MongoDB, MySQL, NumPy, and Pandas**.
 
 Currently focused on **Backend Development, Machine Learning, Data Structures and Algorithms (DSA), and DevOps**.
