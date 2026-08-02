@@ -4,7 +4,7 @@ Computer Science and Engineering student at **Indian Institute of Information Te
 
 Member of the **[Development Team, IIIT Una](https://github.com/Devteam-IIITU)**.
 
-Working with **C, C++, Python, JavaScript, TypeScript, Node.js, Express.js, MongoDB, MySQL, NumPy, and Pandas**.
+Working with **C, C++, Python, Java, JavaScript, TypeScript, Node.js, Express.js, React, MongoDB, MySQL, PostgreSQL, NumPy, and Pandas**.
 
 Currently focused on **Backend Development, Machine Learning, Data Structures and Algorithms (DSA), and DevOps**.
 
@@ -39,11 +39,18 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning & Data
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Cloud
 
@@ -56,21 +63,21 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 <div align="center">
 
 <a href="https://github.com/GarvSaxena/AutoLock">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=false&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=AutoLock&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/GarvSaxena/Code-Archaeologist-cli">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=false&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=github_dark&hide_border=true" />
 </a>
 
 <br/>
 
 <a href="https://github.com/GarvSaxena/Repo-Deployer">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=false&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/GarvSaxena/url-shortner">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=false&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvSaxena&repo=url-shortner&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
@@ -81,13 +88,13 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=GarvSaxena&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=GarvSaxena&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
 
-<img src="https://streak-stats.demolab.com/?user=GarvSaxena&theme=dark&hide_border=false" height="165" />
+<img src="https://streak-stats.demolab.com/?user=GarvSaxena&theme=github-dark&hide_border=true" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GarvSaxena&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvSaxena&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
@@ -97,11 +104,7 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarvSaxena&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvSaxena&theme=github_dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -111,8 +114,6 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 <div align="center">
 
-<a href="https://gitviewsmap.onrender.com/GarvSaxena">
-  <img src="https://gitviewsmap.onrender.com/badge/GarvSaxena.svg" alt="GitViewsMap Visitor Badge" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=GarvSaxena&style=for-the-badge&color=blue" />
 
 </div>
