@@ -86,7 +86,7 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/GarvSaxena?theme=dark&font=Nunito&ext=contest" />
 
 </div>
 
