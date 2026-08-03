@@ -1,11 +1,14 @@
+# About Me
 
 Computer Science and Engineering student at **Indian Institute of Information Technology Una (IIIT Una)**.
 
 Member of the **[Development Team, IIIT Una](https://github.com/Devteam-IIITU)**.
 
-Working with **C, C++, Python, JavaScript, TypeScript, Node.js, Express.js, MongoDB, MySQL, NumPy, and Pandas**.
+Working with **C, C++, Python, JavaScript, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, NumPy, and Pandas**.
 
-Currently focused on **Backend Development, Machine Learning, Data Structures and Algorithms (DSA), and DevOps**.
+Currently focused on **Backend Development, Machine Learning, Data Structures & Algorithms (DSA), and DevOps**.
+
+---
 
 ## Socials
 
@@ -15,7 +18,9 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GARVSAXENA16)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:messagegarv32@gmail.com)
 
-## Tech Stack
+---
+
+# Tech Stack
 
 ### Languages
 
@@ -37,9 +42,10 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Machine Learning & Data
+### Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,68 +56,74 @@ Currently focused on **Backend Development, Machine Learning, Data Structures an
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/GarvSaxena/AutoLock">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=false&v=2" />
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/GarvSaxena/Code-Archaeologist-cli">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=false&v=2" />
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=true" />
 </a>
 
 <br/>
 
 <a href="https://github.com/GarvSaxena/Repo-Deployer">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=false&v=2" />
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/GarvSaxena/url-shortner">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=false&v=2" />
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Stats
+# LeetCode
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=GarvSaxena&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=GarvSaxena&theme=dark&hide_border=false" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GarvSaxena&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
 
 </div>
 
 ---
 
-## Contributions
+# GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarvSaxena&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=GarvSaxena&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<br/><br/>
+<img height="170" src="https://streak-stats.demolab.com?user=GarvSaxena&theme=github-dark&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvSaxena&theme=github_dark" />
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GarvSaxena&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## Profile Visitors
+# Contribution Graph
+
+<div align="center">
+
+[![Garv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=github-dark&hide_border=true)](https://github.com/GarvSaxena)
+
+</div>
+
+---
+
+# Profile Visitors
 
 <div align="center">
 
 <a href="https://gitviewsmap.onrender.com/GarvSaxena">
-<img src="https://gitviewsmap.onrender.com/badge/GarvSaxena.svg" alt="GitViewsMap Visitor Badge" />
+<img src="https://gitviewsmap.onrender.com/badge/GarvSaxena.svg" />
 </a>
 
 </div>
