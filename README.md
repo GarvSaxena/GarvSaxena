@@ -1,8 +1,8 @@
 # About Me
 
-Computer Science and Engineering student at **Indian Institute of Information Technology Una (IIIT Una)**.
+Sophomore at **Indian Institute of Information Technology Una (IIIT Una)**.
 
-Member of the **[Development Team, IIIT Una](https://github.com/Devteam-IIITU)**.
+**Web Developer @ IIIT Una** | **Top 5 Contributor – Hacktoberfest 2026** | **Undergraduate Engineering Scholar @ IIITU ACM Student Chapter**
 
 Working with **C, C++, Python, JavaScript, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, NumPy, and Pandas**.
 
@@ -10,17 +10,9 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 ---
 
-## Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvsaxena__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-saxena-57a337361)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/gss_007/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GARVSAXENA16)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:messagegarv32@gmail.com)
-
----
-
 # Tech Stack
+
+<div align="center">
 
 ### Languages
 
@@ -54,46 +46,21 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
----
-
-# Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/GarvSaxena/AutoLock">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=AutoLock&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/GarvSaxena/Code-Archaeologist-cli">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Code-Archaeologist-cli&theme=dark&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/GarvSaxena/Repo-Deployer">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=Repo-Deployer&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/GarvSaxena/url-shortner">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=GarvSaxena&repo=url-shortner&theme=dark&hide_border=true" />
-</a>
-
 </div>
 
 ---
-
 
 # GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=GarvSaxena&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=GarvSaxena&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Garv's GitHub Stats" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=GarvSaxena&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=GarvSaxena&theme=github-dark&hide_border=true" alt="Garv's GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GarvSaxena&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GarvSaxena&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
@@ -103,7 +70,7 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 <div align="center">
 
-[![Garv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=github-dark&hide_border=true)](https://github.com/GarvSaxena)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -113,8 +80,9 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 <div align="center">
 
-<a href="https://gitviewsmap.onrender.com/GarvSaxena">
-<img src="https://gitviewsmap.onrender.com/badge/GarvSaxena.svg" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=GarvSaxena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
+---
+---
