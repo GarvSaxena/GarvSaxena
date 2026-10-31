@@ -64,22 +64,6 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 </div>
 
----
-
-# Contribution Graph
-
-<div align="center">
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
-
-</div>
-
----
 
 ---
 
