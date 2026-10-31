@@ -70,9 +70,12 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 </div>
+
+---
 
 ---
 
