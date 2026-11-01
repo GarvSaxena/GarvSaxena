@@ -6,7 +6,7 @@ Sophomore at **Indian Institute of Information Technology Una (IIIT Una)**.
 
 Working with **C, C++, Python, JavaScript, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, NumPy, and Pandas**.
 
-Currently focused on **Backend Development, Machine Learning, Data Structures & Algorithms (DSA), and DevOps**.
+Currently focused on **Backend Development, Generative AI, Machine Learning, Data Structures & Algorithms (DSA), and DevOps**.
 
 ---
 
@@ -37,14 +37,18 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Machine Learning
+### Machine Learning & AI
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### Cloud
+### Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -66,12 +70,40 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 ---
 
-# Merged Pull Requests
+# Open Source Contributions
+
+Contributing to open-source projects, collaborating with global developer communities, and building software that makes an impact.
+
+### Organizations & Projects
+
+| Organization / Project | Repository |
+|:---|:---|
+| Apache ShenYu | [apache/shenyu](https://github.com/apache/shenyu) |
+| OpsiMate | [OpsiMate](https://github.com/OpsiMate) |
+| Hiero | [hiero-ledger](https://github.com/hiero-ledger) |
+| Apicurio | [Apicurio](https://github.com/Apicurio) |
+| Img2Num | [Img2Num](https://github.com/Img2Num) |
+| Oaklight | [Oaklight](https://github.com/Oaklight) |
+| LLM Rosetta | [Repository](https://github.com/zyedidia/generic) |
+
+### Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AGarvSaxena">
-  <img src="https://img.shields.io/badge/View%20All-Merged%20Pull%20Requests-2ea44f?style=for-the-badge&logo=github" alt="View All Merged Pull Requests"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20MERGED%20PRs-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Merged PRs"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AGarvSaxena">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20OPEN%20PRs-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View All Open PRs"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/issues?q=is%3Aissue+author%3AGarvSaxena">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20ISSUES-orange?style=for-the-badge&logo=github&logoColor=white" alt="View All Issues"/>
 </a>
 
 </div>
@@ -82,7 +114,7 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GarvSaxena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=GarvSaxena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
