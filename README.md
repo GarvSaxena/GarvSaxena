@@ -114,16 +114,6 @@ Currently focused on **Backend Development, Generative AI, Machine Learning, Dat
 </div>
 
 
-### Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AGarvSaxena">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20MERGED%20PULL%20REQUESTS-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Merged Pull Requests"/>
-</a>
-
-</div>
-
 ---
 
 # Contribution Activity
