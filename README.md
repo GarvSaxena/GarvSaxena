@@ -86,7 +86,6 @@ Contributing to open-source projects, collaborating with global developer commun
 | Oaklight | [Oaklight](https://github.com/Oaklight) |
 | LLM Rosetta | [Repository](https://github.com/zyedidia/generic) |
 
-### Contribution Activity
 
 <div align="center">
 
@@ -95,16 +94,6 @@ Contributing to open-source projects, collaborating with global developer commun
 </a>
 
 <br/><br/>
-
-<a href="https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AGarvSaxena">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20OPEN%20PRs-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View All Open PRs"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/issues?q=is%3Aissue+author%3AGarvSaxena">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20ISSUES-orange?style=for-the-badge&logo=github&logoColor=white" alt="View All Issues"/>
-</a>
 
 </div>
 
