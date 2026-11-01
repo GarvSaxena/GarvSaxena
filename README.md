@@ -64,6 +64,17 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 </div>
 
+---
+
+# Merged Pull Requests
+
+<div align="center">
+
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AGarvSaxena">
+  <img src="https://img.shields.io/badge/View%20All-Merged%20Pull%20Requests-2ea44f?style=for-the-badge&logo=github" alt="View All Merged Pull Requests"/>
+</a>
+
+</div>
 
 ---
 
@@ -75,5 +86,4 @@ Currently focused on **Backend Development, Machine Learning, Data Structures & 
 
 </div>
 
----
 ---
