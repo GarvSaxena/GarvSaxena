@@ -113,17 +113,6 @@ Currently focused on **Backend Development, Generative AI, Machine Learning, Dat
 
 </div>
 
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
 ---
 
 # Profile Visitors
