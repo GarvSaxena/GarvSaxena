@@ -72,28 +72,65 @@ Currently focused on **Backend Development, Generative AI, Machine Learning, Dat
 
 # Open Source Contributions
 
-Contributing to open-source projects, collaborating with global developer communities, and building software that makes an impact.
-
 ### Organizations & Projects
 
-| Organization / Project | Repository |
-|:---|:---|
-| Apache ShenYu | [apache/shenyu](https://github.com/apache/shenyu) |
-| OpsiMate | [OpsiMate](https://github.com/OpsiMate) |
-| Hiero | [hiero-ledger](https://github.com/hiero-ledger) |
-| Apicurio | [Apicurio](https://github.com/Apicurio) |
-| Img2Num | [Img2Num](https://github.com/Img2Num) |
-| Oaklight | [Oaklight](https://github.com/Oaklight) |
-| LLM Rosetta | [Repository](https://github.com/zyedidia/generic) |
+<div align="center">
 
+<table>
+  <tr>
+    <th>Organization / Project</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td>Apache ShenYu</td>
+    <td><a href="https://github.com/apache/shenyu">apache/shenyu</a></td>
+  </tr>
+  <tr>
+    <td>OpsiMate</td>
+    <td><a href="https://github.com/OpsiMate/OpsiMate">OpsiMate/OpsiMate</a></td>
+  </tr>
+  <tr>
+    <td>Hiero</td>
+    <td><a href="https://github.com/hiero-ledger">hiero-ledger</a></td>
+  </tr>
+  <tr>
+    <td>Apicurio</td>
+    <td><a href="https://github.com/Apicurio">Apicurio</a></td>
+  </tr>
+  <tr>
+    <td>Img2Num</td>
+    <td><a href="https://github.com/Img2Num">Img2Num</a></td>
+  </tr>
+  <tr>
+    <td>Oaklight / LLM Rosetta</td>
+    <td><a href="https://github.com/Oaklight/llm-rosetta">Oaklight/llm-rosetta</a></td>
+  </tr>
+  <tr>
+    <td>Generic</td>
+    <td><a href="https://github.com/zyedidia/generic">zyedidia/generic</a></td>
+  </tr>
+</table>
+
+</div>
+
+
+### Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AGarvSaxena">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20MERGED%20PRs-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Merged PRs"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20MERGED%20PULL%20REQUESTS-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Merged Pull Requests"/>
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvSaxena&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
