@@ -121,6 +121,16 @@ Currently focused on **Backend Development, Generative AI, Machine Learning, Dat
 
 <img src="https://komarev.com/ghpvc/?username=GarvSaxena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
+<br/><br/>
+
+<a href="https://gitviewsmap.onrender.com/GarvSaxena">
+  <img src="https://gitviewsmap.onrender.com/badge/GarvSaxena.svg" alt="GitViewsMap Visitor Badge" />
+</a>
+
+<br/>
+
+
 </div>
 
 ---
+
